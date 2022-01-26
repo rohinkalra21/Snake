@@ -1,0 +1,1 @@
+This is a remake of the classic snake game using the pygame library
